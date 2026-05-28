@@ -12,4 +12,4 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 
 |Número|Descripción|Potenciador|Estatus|
 |---|---|---|---|
-|1.|Elaboración del Repositorio en CMD|10|Revisada|
+|1.|[Introducción al Uso de Python en el Análisis de Datos](/Practica02/Práctica02_230535.ipynb)|37|Revisada|
